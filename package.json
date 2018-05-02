@@ -1,0 +1,14 @@
+{
+  "name": "generator-react-mpa-web",
+  "version": "1.0.0",
+  "description": "yoeman generator from rect web",
+  "scripts": {},
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "dingquan",
+  "license": "ISC",
+  "devDependencies": {
+    "yeoman-generator": "^2.0.4"
+  }
+}

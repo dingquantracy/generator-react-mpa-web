@@ -1,0 +1,26 @@
+{
+  "presets": [
+    "react",
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions",
+            ">5%"
+          ]
+        },
+        "modules": false
+      }
+    ]
+  ],
+  "plugins": [
+    ["import", {
+      "libraryName": "dimension-ui" 
+    }],
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    "transform-es2015-modules-commonjs"
+  ],
+  "env": {}
+}
