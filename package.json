@@ -15,5 +15,6 @@
   "devDependencies": {
     "glob": "^7.1.2",
     "yeoman-generator": "^2.0.4"
-  }
+  },
+  "dependencies": {}
 }
