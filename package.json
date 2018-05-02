@@ -1,6 +1,6 @@
 {
   "name": "generator-react-mpa-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于react+webpack的多页面项目生成器，支持ssr",
   "scripts": {},
   "keywords": [
