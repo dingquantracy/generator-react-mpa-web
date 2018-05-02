@@ -13,6 +13,7 @@
     "url": "git@github.com:dingquantracy/generator-react-mpa-web.git"
   },
   "devDependencies": {
+    "glob": "^7.1.2",
     "yeoman-generator": "^2.0.4"
   }
 }
