@@ -1,13 +1,17 @@
 {
   "name": "generator-react-mpa-web",
   "version": "1.0.0",
-  "description": "yoeman generator from rect web",
+  "description": "基于react+webpack的多页面项目生成器，支持ssr",
   "scripts": {},
   "keywords": [
     "yeoman-generator"
   ],
   "author": "dingquan",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dingquantracy/generator-react-mpa-web.git"
+  },
   "devDependencies": {
     "yeoman-generator": "^2.0.4"
   }
